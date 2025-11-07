@@ -1,0 +1,7 @@
+// Single line comment
+agar x == 5
+/* Multi
+   line
+   comment */
+dikhao "Hello"
+

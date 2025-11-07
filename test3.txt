@@ -1,0 +1,11 @@
+har i = 0
+jabtak i < 10
+karo
+  dikhao i
+  i = i + 1
+khatam
+"test string"
+'c'
+123.45
+123e-10
+
