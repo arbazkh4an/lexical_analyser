@@ -1,0 +1,38 @@
+// PakCode Test Program
+
+shuru {
+  adad x = 10;
+  adad y = 5;
+  ashar rate = 3.75;
+  lafz message = "Testing PakCode Lexer";
+  bool flag = sahi;
+
+  amal multiply(adad a, adad b) {
+    adad result = a * b;
+    wapas result;
+  }
+
+  dikhao("Program Started");
+
+  agar (x > y) {
+    dikhao("x is greater");
+  } warna {
+    dikhao("y is greater or equal");
+  }
+
+  har (i = 0; i < 5; i = i + 1) {
+    dikhao("Loop iteration");
+  }
+
+  jabtak (x < 20) {
+    x = x + 2;
+  }
+
+  adad total = multiply(x, y);
+  dikhao("Total is:");
+  dikhao(total);
+
+  @salary = 5000;
+
+  khatam;
+}
