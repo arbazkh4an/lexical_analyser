@@ -6,7 +6,7 @@
 // Keyword lookup
 const char* keywords[] = {
   "agar","warna","jabtak","karo","har","wapas",
-  "adad","ashar","lafz","sahi","ghalat","shuru",
+  "integer","decimal","lafz","sahi","ghalat","shuru",
   "khatam","amal","dikhao", NULL
 };
 
