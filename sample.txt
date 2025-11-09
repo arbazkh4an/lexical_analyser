@@ -1,14 +1,14 @@
 // PakCode Test Program
 
 shuru {
-  adad x = 10;
-  adad y = 5;
-  ashar rate = 3.75;
+  integer x = 10;
+  integer y = 5;
+  decimal rate = 3.75;
   lafz message = "Testing PakCode Lexer";
   bool flag = sahi;
 
-  amal multiply(adad a, adad b) {
-    adad result = a * b;
+  amal multiply(integer a, integer b) {
+   integer result = a * b;
     wapas result;
   }
 
@@ -28,7 +28,7 @@ shuru {
     x = x + 2;
   }
 
-  adad total = multiply(x, y);
+ integer total = multiply(x, y);
   dikhao("Total is:");
   dikhao(total);
 
